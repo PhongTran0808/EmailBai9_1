@@ -1,0 +1,4 @@
+com\example\demo16\model\User.class
+com\example\demo16\servlet\DownloadServlet.class
+com\example\demo16\servlet\AlbumServlet.class
+com\example\demo16\servlet\RegisterServlet.class
